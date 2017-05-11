@@ -1,0 +1,23 @@
+name: GoServ_test
+version: 0.0.1
+cabal-version: >=1.2
+build-type: Simple
+license: AllRightsReserved
+license-file: ""
+synopsis: go/ url routing server
+description: Simple server to provide user-defined url aliases of the form 'go/foo_bar'
+data-dir: ""
+ 
+executable GoServ_test
+    build-depends: QuickCheck -any, base -any
+    main-is: Main.hs
+    buildable: True
+    hs-source-dirs: src
+ 
+test-suite test-GoServ_test
+    build-depends: QuickCheck -any, base -any
+    type: exitcode-stdio-1.0
+    main-is: Main.hs
+    buildable: True
+    cpp-options: -DMAIN_FUNCTION=testMain
+    hs-source-dirs: src

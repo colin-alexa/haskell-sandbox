@@ -7,6 +7,7 @@ cabal-dev
 *.chs.h
 *.dyn_o
 *.dyn_hi
+*.swp
 .hpc
 .hsenv
 .cabal-sandbox/
@@ -16,4 +17,5 @@ cabal.sandbox.config
 *.hp
 *.eventlog
 .stack-work/
+bin/
 cabal.project.local
