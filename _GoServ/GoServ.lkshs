@@ -1,0 +1,18 @@
+Version of session file format:
+               1
+Time of storage:
+               "Thu Sep 29 21:40:52 EDT 2016"
+Layout:        VerticalP (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 2, detachedId = Nothing, detachedSize = Nothing}) (HorizontalP (TerminalP {paneGroups = fromList [("Debug",HorizontalP (TerminalP {paneGroups = fromList [], paneTabs = Nothing, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) 318)], paneTabs = Just BottomP, currentPage = 2, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Nothing, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) 617) 1083
+Population:    [(Just (BreakpointsSt BreakpointsState),[SplitP RightP,SplitP TopP,GroupP "Debug",SplitP BottomP]),(Just (ErrorsSt ErrorsState),[SplitP RightP,SplitP TopP]),(Just (FilesSt FilesState),[SplitP RightP,SplitP TopP]),(Just (BufferSt (BufferState "/home/colin-alexa/Projects/haskell/src/HTTPRequest.hs" 1056)),[SplitP LeftP]),(Just (BufferSt (BufferState "/home/colin-alexa/Projects/haskell/src/HTTPResponse.hs" 245)),[SplitP LeftP]),(Just (LogSt LogState),[SplitP RightP,SplitP BottomP]),(Just (BufferSt (BufferState "/home/colin-alexa/Projects/haskell/GoServ/src/Main.hs" 215)),[SplitP LeftP]),(Just (BufferSt (BufferState "/home/colin-alexa/Projects/haskell/src/SimpleServer.hs" 50)),[SplitP LeftP]),(Just (VariablesSt VariablesState),[SplitP RightP,SplitP TopP,GroupP "Debug",SplitP BottomP]),(Just (WorkspaceSt WorkspaceState),[SplitP RightP,SplitP BottomP]),(Just (BufferSt (BufferStateTrans "_Eval.hs" "\n" 0)),[SplitP RightP,SplitP TopP,GroupP "Debug",SplitP TopP])]
+Window size:   (1364,716)
+Completion size:
+               (750,400)
+Workspace:     Just "/home/colin-alexa/Projects/haskell/GoServ/GoServ.lkshw"
+Active pane:   Just "Main.hs"
+Toolbar visible:
+               True
+FindbarState:  (False,FindState {entryStr = "Http", entryHist = ["Http"], replaceStr = "HTTP", replaceHist = [], caseSensitive = False, entireWord = False, wrapAround = False, regex = False, lineNr = 1})
+Recently opened files:
+               ["/home/colin-alexa/Projects/haskell/GoServ/src/ParsecApplicative.hs","/home/colin-alexa/Projects/haskell/GoServ/GoServ.lkshw","/home/colin-alexa/.leksah-0.12/leksah-welcome/src/SimpleServer.hs","/home/colin-alexa/Projects/haskell/src/SimpleServer.hs","/home/colin-alexa/Projects/haskell/src/goserv.hs","/home/colin-alexa/.leksah-0.12/packageSources/transformers-0.3.0.0/Data/Functor/Identity.hs","/home/colin-alexa/.leksah-0.12/packageSources/haskell98-2.0.0.2/CError.hs"]
+Recently opened workspaces:
+               ["/home/colin-alexa/leksah.lkshw"]
